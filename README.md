@@ -1,5 +1,8 @@
 # SSDdiag
-Diagnostics software for Samsung SSD EVO 840 problems
+Diagnostics software for Samsung SSD EVO 850 problems
+adapted from thesourcerer8/SSDdiag for Evo 840 SSD
+
+850 has a slightly newer Controller
 
 Features:
 * detects the firmware version from the running code.
